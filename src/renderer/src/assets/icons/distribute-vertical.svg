@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <!-- 垂直均分：三个横向条块，垂直均匀间距 -->
+  <rect x="6"  y="3" width="12" height="4" fill="#7D7D7D" rx="1"/>
+  <rect x="6"  y="10" width="12" height="4" fill="#7D7D7D" rx="1"/>
+  <rect x="6"  y="17" width="12" height="4" fill="#7D7D7D" rx="1"/>
+</svg>
